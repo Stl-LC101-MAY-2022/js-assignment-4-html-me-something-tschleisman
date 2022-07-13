@@ -1,1 +1,85 @@
 /* Write your CSS here! */
+
+body {
+    color: darkseagreen;
+}
+
+.class {
+    background-color: honeydew;
+}
+
+#tires {
+    color: lightcyan;
+}
+
+#rocks{
+    color: lightcyan;
+}
+
+#baking {
+    color: lightcyan;
+}
+
+#drinks{
+    color: lightcyan;
+}
+
+#brackets {
+    color: lightcyan;
+}
+
+#cooking{
+    color: lightcyan;
+}
+
+#stunts{
+    color: lightcyan;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+body {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+head {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+main {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+footer {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+div {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
