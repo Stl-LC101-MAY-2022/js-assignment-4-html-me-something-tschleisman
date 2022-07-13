@@ -1,10 +1,5 @@
 /* Write your CSS here! */
 
-
-body {
-    color: darkseagreen;
-}
-
 .class {
     background-color: honeydew;
 }
@@ -71,10 +66,12 @@ h3 {
 }
 
 body {
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    margin-right: 8px;
+    display: block;
+    color: darkseagreen;
 }
 
 head {
@@ -103,5 +100,13 @@ div {
     padding-bottom: 50px;
     padding-right: 50px;
     padding-left: 50px;
+}
+
+#mainHeading {
+    color: red;
+}
+
+#testP {
+    color: green;
 }
 
