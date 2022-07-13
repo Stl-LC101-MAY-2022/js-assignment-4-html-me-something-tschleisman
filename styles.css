@@ -1,5 +1,6 @@
 /* Write your CSS here! */
 
+
 body {
     color: darkseagreen;
 }
@@ -46,6 +47,27 @@ h2{
 
 h3{
     text-align: center;
+}
+
+h1 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+h2 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+h3 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 body {
